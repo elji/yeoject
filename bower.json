@@ -1,0 +1,11 @@
+{
+  "name": "yeoject",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0"
+  },
+  "devDependencies": {
+    "chai": "~3.2.0",
+    "mocha": "~2.2.5"
+  }
+}
